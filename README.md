@@ -67,8 +67,7 @@ Each genre exhibits **unique frequency distributions**. **Classical and Jazz** e
 
 ## 🚀 How to Run This Project
 
-### 
-1️⃣ Clone this repository
+### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/yourusername/Spectrogram-Analysis.git
 cd Spectrogram-Analysis
